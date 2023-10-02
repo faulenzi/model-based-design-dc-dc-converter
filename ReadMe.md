@@ -1,4 +1,6 @@
 # Model-Based Design for a SEPIC
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=faulenzi/model-based-design-dc-dc-converter)
+
 In this reference example we will use a SEPIC circuit topology to show how to model and simulate a DC-DC converter that powers LED lights. Using Simulink, Stateflow and Simscape Electrical, you can show how to analyze, develop, simulate, and implement a controller that maintains desired output voltage in the presence of input voltage variations and load changes to achieve fast and stable response. The demonstration will includes generating embedded code from the control algorithms suitable for implementing on a microcontroller. Part of this example can be executed without hardware. 
 
 ## Recording
